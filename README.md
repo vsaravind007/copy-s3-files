@@ -4,6 +4,7 @@ NPM Module to copy S3 files across AWS accounts, uses streams under the bonnet f
 
 
 **Installation**
+
 `$ npm install copy-s3-files`
 
 **Usage**
