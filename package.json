@@ -1,0 +1,24 @@
+{
+  "name": "copy-s3-files",
+  "version": "1.0.0",
+  "description": "Copy s3 files between AWS accounts through streams",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vsaravind007/copy-s3-files.git"
+  },
+  "keywords": [
+    "s3",
+    "copy",
+    "aws"
+  ],
+  "author": "Aravind VS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vsaravind007/copy-s3-files/issues"
+  },
+  "homepage": "https://github.com/vsaravind007/copy-s3-files#readme"
+}
