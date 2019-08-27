@@ -5,11 +5,11 @@
 NPM Module to copy S3 files across AWS accounts, uses streams under the bonnet for efficient resource utilisation - no intermediate downloads & Lambda safe!
 
 
-**Installation**
+## Installation
 
 ```$ npm install copy-s3-files```
 
-**Options**
+## Options
 
 Module requires an options object with below keys to be passed on:
 
@@ -39,7 +39,7 @@ Module requires an options object with below keys to be passed on:
 `destKey` - Destination file key
 
 
-**Usage**
+## Usage
 
 Module assume Read access on the `srcS3` credentials and write access on `destS3` credentials.
 
