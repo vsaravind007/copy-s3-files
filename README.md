@@ -1,6 +1,6 @@
 
 # Copy S3 Files 
-![alt text](https://img.shields.io/npm/l/copy-s3-files)
+![alt text](https://img.shields.io/npm/l/copy-s3-files?style=plastic)
 
 NPM Module to copy S3 files across AWS accounts, uses streams under the bonnet for efficient resource utilisation - no intermediate downloads & Lambda safe!
 
