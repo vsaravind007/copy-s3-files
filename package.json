@@ -16,7 +16,7 @@
     "aws"
   ],
   "author": "Aravind VS",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/vsaravind007/copy-s3-files/issues"
   },
