@@ -20,7 +20,7 @@ Module requires an options object with below keys to be passed on:
   srcBucket,
   destBucket,
   srcKey,
-  destKey
+  destKey // Optional
 }
 ```
 
@@ -36,7 +36,7 @@ Module requires an options object with below keys to be passed on:
 
 `srcKey` - Source file key
 
-`destKey` - Destination file key
+`destKey` - Destination file key, which is optional. If this is omitted, module will assume the desination file key same as the source file key.
 
 
 ## Usage
